@@ -181,7 +181,6 @@ sudo usermod -a -G docker ec2-user
 
 **11.5 The user jenkins needs to be added to the group docker. For more details, please
 refer: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
-, https://gist.github.com/npearce/6f3c7826c7499587f00957fee62f8ee9
 , https://portal.cloud303.io/forum/aws-1/question/i-want-to-install-docker-compose-on-an-amazon-linux-2-ec2-instance-9**
 
 ```bash
